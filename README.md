@@ -1,4 +1,4 @@
-# Desenvolvimento de aplicações multiplataforma (WEB/Mobile) 🚀
+# Desenvolvimento de aplicações multiplataforma (WEB/Mobile) 
 
 Este repositório contém uma aplicação desenvolvida em React para praticar o consumo de APIs mockadas, manipulação de estados (`useState`, `useEffect`), estilização com Bootstrap 5 e componentes dinâmicos de filtragem e busca.
 
